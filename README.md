@@ -90,7 +90,7 @@ Milestone_4/
 ```
 3. Navigate to the project directory:
  ```bash
- cd D:\Semester-08\EN4720 - Security in Cyber-Physical Systems\Milestones\Milestone_4
+ https://github.com/malanban/EN4720_The_Infected_Crew_Milestone_04
 ```
 
 ### Usage

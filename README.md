@@ -89,10 +89,15 @@ Milestone_4/
    python --version
 3. Navigate to the project directory:
    ```bash
-   del logs\events.json
-   del logs\alerts.json
+   cd D:\Semester-08\EN4720 - Security in Cyber-Physical Systems\Milestones\Milestone_4
 
- ### Run tests:
+### Usage
+ #### Running Tests:
+1. Clear logs (optional):
+    ```bash
+    del logs\events.json
+    del logs\alerts.json
+2. Run tests:
   ```bash
   python -m unittest test_cases.py -v
 ```

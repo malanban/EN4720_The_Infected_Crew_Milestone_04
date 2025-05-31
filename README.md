@@ -85,18 +85,21 @@ Milestone_4/
 ### Installation
 1. Clone or copy files to your machine.
 2. Verify Python installation:
-   ```bash
-   python --version
+ ```bash
+ python --version
+```
 3. Navigate to the project directory:
-   ```bash
-   cd D:\Semester-08\EN4720 - Security in Cyber-Physical Systems\Milestones\Milestone_4
+ ```bash
+ cd D:\Semester-08\EN4720 - Security in Cyber-Physical Systems\Milestones\Milestone_4
+```
 
 ### Usage
  #### Running Tests:
 1. Clear logs (optional):
-    ```bash
-    del logs\events.json
-    del logs\alerts.json
+  ```bash
+  del logs\events.json
+  del logs\alerts.json
+```
 2. Run tests:
   ```bash
   python -m unittest test_cases.py -v
